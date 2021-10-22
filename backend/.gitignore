@@ -1,0 +1,17 @@
+.idea/
+.vscode/
+node_modules/
+build/
+temp/
+.env
+coverage
+dist
+.editorconfig
+.eslintrc.json
+prettier.config.js
+yarn.lock
+prisma/migrations
+prisma/dev.db
+
+tmp/*
+!tmp/.gitkeep
